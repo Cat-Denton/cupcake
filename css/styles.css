@@ -1,0 +1,13 @@
+img {
+  float: left;
+}
+
+.important {
+  color: red;
+  font-size: 16px;
+}
+
+.footer {
+  float: bottom;
+  text-decoration: blue;
+}
