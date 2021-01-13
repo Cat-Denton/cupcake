@@ -1,6 +1,4 @@
-img {
-  float: left;
-}
+
 
 .important {
   color: red;
@@ -10,4 +8,13 @@ img {
 .footer {
   float: bottom;
   text-decoration: blue;
+}
+
+.best {
+  color:pink;
+  width:50%;
+  margin: 12px;
+  border: 14px darkblue;
+  padding: 4px blue;
+  box-sizing: border-box;
 }
