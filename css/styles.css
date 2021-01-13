@@ -11,10 +11,10 @@
 }
 
 .best {
-  color:pink;
-  width:50%;
-  margin: 12px;
-  border: 14px darkblue;
-  padding: 4px blue;
-  box-sizing: border-box;
+  width: 25%;
+  padding: 50px;
+  border: cyan;
+  border-width: 30px;
+  background-color: pink;
+  margin-bottom: 10px;
 }
